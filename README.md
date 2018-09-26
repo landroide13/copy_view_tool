@@ -22,7 +22,9 @@ Or install it yourself as:
 
 ## Usage
 
+```ruby
 CopyViewTool::Renderer.copyright 'Eltro Lazo', 'All Rigths reserved.'
+```
 
 ## Development
 
